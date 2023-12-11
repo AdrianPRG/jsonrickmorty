@@ -1,0 +1,14 @@
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\bin\Debug\net7.0\jsonrickmorty.exe
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\bin\Debug\net7.0\jsonrickmorty.deps.json
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\bin\Debug\net7.0\jsonrickmorty.runtimeconfig.json
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\bin\Debug\net7.0\jsonrickmorty.dll
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\bin\Debug\net7.0\jsonrickmorty.pdb
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\jsonrickmorty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\jsonrickmorty.AssemblyInfoInputs.cache
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\jsonrickmorty.AssemblyInfo.cs
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\jsonrickmorty.csproj.CoreCompileInputs.cache
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\jsonrickmorty.dll
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\refint\jsonrickmorty.dll
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\jsonrickmorty.pdb
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\jsonrickmorty.genruntimeconfig.cache
+C:\Users\adrix\RiderProjects\jsonrickmorty\jsonrickmorty\obj\Debug\net7.0\ref\jsonrickmorty.dll
